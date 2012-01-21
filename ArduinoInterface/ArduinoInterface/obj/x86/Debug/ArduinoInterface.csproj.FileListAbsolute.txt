@@ -1,0 +1,9 @@
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Console.resources
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Properties.Resources.resources
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
