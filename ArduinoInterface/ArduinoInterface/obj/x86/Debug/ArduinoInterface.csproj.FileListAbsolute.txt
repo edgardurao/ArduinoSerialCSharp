@@ -7,3 +7,5 @@ c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoIn
 c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
 c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
 c:\users\edurao\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
+C:\Users\edurao\Documents\Visual Studio 2010\Projects\ArduinoSerialCSharp\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+C:\Users\edurao\Documents\Visual Studio 2010\Projects\ArduinoSerialCSharp\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb

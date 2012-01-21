@@ -121,7 +121,12 @@ namespace ArduinoInterface
 
                 listBox1.Items.Add(serialPort1.ReadExisting());
                 listBox1.SelectedIndex = listBox1.Items.Count;
-                
+                // missing treat the data received
+                // L1-HIGH || L1-LOW
+                // L2...
+                // L3...
+                //
+                // update checkbox according to what received
             }
             catch (Exception ex)
             {

@@ -1,4 +1,3 @@
-
 int pushval = 0;      // pushbutton value
 
 int push1 = 8;   // pushbuttons pins
